@@ -771,10 +771,20 @@
     },
     {
         "Id": "9078",
-        "Dependency Name": "android-sqlite-asset-helper",
+        "Dependency Name": "Android Sqlite Asset Helper",
         "Developer Name": "Jeff Gilfelt",
         "Github Link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
         "Full Name": "jgilfelt/android-sqlite-asset-helper",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9079",
+        "Dependency Name": "PeekAndPop",
+        "Developer Name": "Vincent Te Tau",
+        "Github Link": "https://github.com/shalskar/PeekAndPop",
+        "Full Name": "shalskar/PeekAndPop",
         "YouTube Link": "no",
         "License": "Apache License 2.0",
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
