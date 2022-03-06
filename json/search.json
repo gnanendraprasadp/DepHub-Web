@@ -2671,7 +2671,7 @@
     },
     {
         "Id": "9078",
-        "Dependency Name": "android-sqlite-asset-helper",
+        "Dependency Name": "Android SQLite Asset Helper",
         "Developer Name": "Jeff Gilfelt",
         "Github Link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
         "Full Name": "jgilfelt/android-sqlite-asset-helper",
@@ -2745,16 +2745,6 @@
         "Developer Name": "Google",
         "Github Link": "https://github.com/google/hover",
         "Full Name": "google/hover",
-        "YouTube Link": "no",
-        "License": "Apache License 2.0",
-        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-    },
-    {
-        "Id": "9078",
-        "Dependency Name": "Android SQLite Asset Helper",
-        "Developer Name": "Jeff Gilfelt",
-        "Github Link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
-        "Full Name": "jgilfelt/android-sqlite-asset-helper",
         "YouTube Link": "no",
         "License": "Apache License 2.0",
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
