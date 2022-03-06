@@ -771,7 +771,7 @@
     },
     {
         "Id": "9078",
-        "Dependency Name": "Android Sqlite Asset Helper",
+        "Dependency Name": "Android SQLite Asset Helper",
         "Developer Name": "Jeff Gilfelt",
         "Github Link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
         "Full Name": "jgilfelt/android-sqlite-asset-helper",
