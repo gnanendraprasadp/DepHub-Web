@@ -2751,6 +2751,16 @@
     },
     {
         "Id": "9079",
+        "Dependency Name": "PeekAndPop",
+        "Developer Name": "Vincent Te Tau",
+        "Github Link": "https://github.com/shalskar/PeekAndPop",
+        "Full Name": "shalskar/PeekAndPop",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9080",
         "Dependency Name": "App Auth Android",
         "Developer Name": "OpenID",
         "Github Link": "https://github.com/openid/AppAuth-Android",
@@ -2760,7 +2770,7 @@
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
     },
     {
-        "Id": "9080",
+        "Id": "9081",
         "Dependency Name": "Apollo Kotlin",
         "Developer Name": "Apollo GraphQL",
         "Github Link": "https://github.com/apollographql/apollo-kotlin",
@@ -2770,7 +2780,7 @@
         "License Link": "https://www.mit.edu/~amini/LICENSE.md"
     },
     {
-        "Id": "9081",
+        "Id": "9082",
         "Dependency Name": "Jsoup",
         "Developer Name": "Jonathan Hedley",
         "Github Link": "https://github.com/jhy/jsoup",
@@ -2780,7 +2790,7 @@
         "License Link": "https://www.mit.edu/~amini/LICENSE.md"
     },
     {
-        "Id": "9082",
+        "Id": "9083",
         "Dependency Name": "Pdf ViewPager",
         "Developer Name": "Olmo Gallegos",
         "Github Link": "https://github.com/voghDev/PdfViewPager",
@@ -2790,7 +2800,7 @@
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
     },
     {
-        "Id": "9083",
+        "Id": "9084",
         "Dependency Name": "Lingver",
         "Developer Name": "Yaroslav Berezanskyi",
         "Github Link": "https://github.com/YarikSOffice/lingver",
