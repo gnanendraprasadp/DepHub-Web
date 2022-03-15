@@ -2798,5 +2798,35 @@
         "YouTube Link": "No",
         "License": "MIT License",
         "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3037",
+        "Dependency Name": "Coil",
+        "Developer Name": "Coil",
+        "Github Link": "https://github.com/coil-kt/coil",
+        "Full Name": "coil-kt/coil",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3038",
+        "Dependency Name": "Android GIF Drawable",
+        "Developer Name": "Karol Wrótniak",
+        "Github Link": "https://github.com/koral--/android-gif-drawable",
+        "Full Name": "koral--/android-gif-drawable",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3039",
+        "Dependency Name": "Android SVG",
+        "Developer Name": "Paul LeBeau",
+        "Github Link": "https://github.com/BigBadaboom/androidsvg",
+        "Full Name": "BigBadaboom/androidsvg",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
     }
 ]
