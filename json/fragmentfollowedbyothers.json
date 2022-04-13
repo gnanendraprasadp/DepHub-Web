@@ -838,5 +838,105 @@
         "YouTube Link": "no",
         "License": "MIT License",
         "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9085",
+        "Dependency Name": "OkHttp",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/okhttp",
+        "Full Name": "square/okhttp",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9086",
+        "Dependency Name": "Retrofit",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/retrofit",
+        "Full Name": "square/retrofit",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9087",
+        "Dependency Name": "RxAndroid",
+        "Developer Name": "ReactiveX",
+        "Github Link": "https://github.com/ReactiveX/RxAndroid",
+        "Full Name": "ReactiveX/RxAndroid",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9088",
+        "Dependency Name": "PDF Viewer",
+        "Developer Name": "Barteksc",
+        "Github Link": "https://github.com/barteksc/AndroidPdfViewer",
+        "Full Name": "barteksc/AndroidPdfViewer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9089",
+        "Dependency Name": "Backboard",
+        "Developer Name": "Tumblr",
+        "Github Link": "https://github.com/tumblr/Backboard",
+        "Full Name": "tumblr/Backboard",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9090",
+        "Dependency Name": "Essentials",
+        "Developer Name": "Greenrobot",
+        "Github Link": "https://github.com/greenrobot/essentials",
+        "Full Name": "greenrobot/essentials",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9091",
+        "Dependency Name": "Flipcast",
+        "Developer Name": "Phaneesh",
+        "Github Link": "https://github.com/phaneesh/flipcast-android",
+        "Full Name": "phaneesh/flipcast-android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9092",
+        "Dependency Name": "Permission Dispatcher",
+        "Developer Name": "PermissionsDispatcher",
+        "Github Link": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+        "Full Name": "permissions-dispatcher/PermissionsDispatcher",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9093",
+        "Dependency Name": "Rebound",
+        "Developer Name": "Facebook Archive",
+        "Github Link": "https://github.com/facebookarchive/rebound",
+        "Full Name": "facebookarchive/rebound",
+        "YouTube Link": "no",
+        "License": "Other",
+        "License Link": "https://github.com/facebookarchive/rebound/blob/master/LICENSE"
+    },
+    {
+        "Id": "9094",
+        "Dependency Name": "Rootbeer",
+        "Developer Name": "Scott Alexander-Bown",
+        "Github Link": "https://github.com/scottyab/rootbeer",
+        "Full Name": "scottyab/rootbeer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
     }
 ]
