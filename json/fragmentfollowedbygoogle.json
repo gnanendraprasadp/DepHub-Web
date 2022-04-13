@@ -78,5 +78,15 @@
         "YouTube Link": "no",
         "License": "Apache License 2.0",
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7009",
+        "Dependency Name": "Auto",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/auto",
+        "Full Name": "google/auto",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
     }
 ]
