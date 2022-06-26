@@ -921,16 +921,6 @@
     },
     {
         "Id": "9093",
-        "Dependency Name": "Rebound",
-        "Developer Name": "Facebook Archive",
-        "Github Link": "https://github.com/facebookarchive/rebound",
-        "Full Name": "facebookarchive/rebound",
-        "YouTube Link": "no",
-        "License": "Other",
-        "License Link": "https://github.com/facebookarchive/rebound/blob/master/LICENSE"
-    },
-    {
-        "Id": "9094",
         "Dependency Name": "Rootbeer",
         "Developer Name": "Scott Alexander-Bown",
         "Github Link": "https://github.com/scottyab/rootbeer",
