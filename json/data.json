@@ -1716,6 +1716,28 @@
         "License Link": "https://www.mit.edu/~amini/LICENSE.md"
     },
     {
+        "Id": "5017",
+        "Type": "Container",
+        "Dependency Name": "Drag Drop Recyclerview",
+        "Developer Name": "Ernesto Yaquello",
+        "Github Link": "https://github.com/ernestoyaquello/DragDropSwipeRecyclerview",
+        "Full Name": "ernestoyaquello/DragDropSwipeRecyclerview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5018",
+        "Type": "Container",
+        "Dependency Name": "Drag ListView",
+        "Developer Name": "Magnus Woxblom",
+        "Github Link": "https://github.com/woxblom/DragListView",
+        "Full Name": "woxblom/DragListView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+    {
         "Id": "6001",
         "Type": "Helper",
         "Dependency Name": "Flow Layout",
