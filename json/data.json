@@ -3080,17 +3080,6 @@
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
     },
     {
-        "Id": "3040",
-        "Type": "Widget",
-        "Dependency Name": "Compressor",
-        "Developer Name": "Zetra",
-        "Github Link": "https://github.com/zetbaitsu/Compressor",
-        "Full Name": "zetbaitsu/Compressor",
-        "YouTube Link": "no",
-        "License": "Apache License 2.0",
-        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-    },
-    {
         "Id": "9095",
         "Type": "Others",
         "Dependency Name": "Kotlin Math",
