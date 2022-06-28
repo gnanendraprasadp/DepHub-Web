@@ -3067,5 +3067,60 @@
         "YouTube Link": "no",
         "License": "Apache License 2.0",
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-    }
+    },
+    {
+        "Id": "9094",
+        "Type": "Others",
+        "Dependency Name": "LeakCanary",
+        "Developer Name": "Square",
+        "Github Link": "https://github.com/square/leakcanary",
+        "Full Name": "square/leakcanary",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3040",
+        "Type": "Widget",
+        "Dependency Name": "Compressor",
+        "Developer Name": "Zetra",
+        "Github Link": "https://github.com/zetbaitsu/Compressor",
+        "Full Name": "zetbaitsu/Compressor",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9095",
+        "Type": "Others",
+        "Dependency Name": "Kotlin Math",
+        "Developer Name": "Romain Guy",
+        "Github Link": "https://github.com/romainguy/kotlin-math",
+        "Full Name": "romainguy/kotlin-math",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9096",
+        "Type": "Others",
+        "Dependency Name": "Easy Permissions",
+        "Developer Name": "Madalin Valceleanu",
+        "Github Link": "https://github.com/vmadalin/easypermissions-ktx",
+        "Full Name": "vmadalin/easypermissions-ktx",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5019",
+        "Type": "Container",
+        "Dependency Name": "Dots Indicators",
+        "Developer Name": "Tommy Buonomo",
+        "Github Link": "https://github.com/tommybuonomo/dotsindicator",
+        "Full Name": "tommybuonomo/dotsindicator",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  }
 ]
