@@ -1,24 +1,28 @@
-# Android Release Notes 📝
+# Android Release Notes :newspaper:
 Published on 12 June 2022
 
-🤝 Thank you so much for being a part of DepHub family.<br>
+:handshake: Thank you so much for being a part of DepHub family.<br>
 We are working so hard to bring all dependencies to this app. Below is a list of what we updated in each recent release.
 
+### July 2022
+*   Bug Fixes :new:
+*   Improvements in Notifications :new:
+
 ### June 2022
-*   Small Issues in Dependency Overview 🆕
-*   Bug Fixes in Dynamic URL 🆕
-*   Updated App Intro 🆕
-*   Enhanced App Bar in Web 🆕
+*   Small Issues in Dependency Overview
+*   Bug Fixes in Dynamic URL
+*   Updated App Intro
+*   Enhanced App Bar in Web
 
 ### May 2022
 *   Small Bug Fixes and Improvisations
 
 ### April 2022
-*   Improved App PerfPerformance
+*   Improved App Performance
 *   Minor Bugs fixes
 
 ### March 2022
-*   ⭐ New Feature : Now you can add Dependency to your favorites
+*   :star: New Feature : Now you can add Dependency to your favorites
 *   Improved In-App links
 *   Minor Bugs fixes
 *   Removed Unwanted files
@@ -36,7 +40,7 @@ We are working so hard to bring all dependencies to this app. Below is a list of
 *   License of dependency can be viewed
 *   Cardview UI
 
-That's it for now. As always, thank you for being a part of DepHub! 🙏
+That's it for now. As always, thank you for being a part of DepHub! :pray:
 
 # An Introduction to DepHub
 Published on 01 December 2020
