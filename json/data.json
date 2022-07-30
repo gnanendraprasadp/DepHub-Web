@@ -734,7 +734,7 @@
         "Full Name": "kizitonwose/CalendarView",
         "YouTube Link": "no",
         "License": "MIT License",
-        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
     },
     {
         "Id": "3002",
@@ -855,7 +855,7 @@
         "Full Name": "mancj/MaterialSearchBar",
         "YouTube Link": "no",
         "License": "MIT License",
-        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
     },
     {
         "Id": "3013",
@@ -3111,5 +3111,104 @@
         "YouTube Link": "no",
         "License": "Apache License 2.0",
         "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "Id": "9097",
+    "Type": "Others",
+    "Dependency Name": "Buck",
+    "Developer Name": "Facebook",
+    "Github Link": "https://github.com/facebook/buck",
+    "Full Name": "facebook/buck",
+    "YouTube Link": "no",
+    "License": "Apache License 2.0",
+    "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "Id": "1041",
+    "Type": "Text",
+    "Dependency Name": "Token Auto Complete",
+    "Developer Name": "Splitwise",
+    "Github Link": "https://github.com/splitwise/TokenAutoComplete",
+    "Full Name": "splitwise/TokenAutoComplete",
+    "YouTube Link": "no",
+    "License": "Apache License 2.0",
+    "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "Id": "1042",
+    "Type": "Text",
+    "Dependency Name": "Twitter Text",
+    "Developer Name": "Twitter",
+    "Github Link": "https://github.com/twitter/twitter-text",
+    "Full Name": "twitter/twitter-text",
+    "YouTube Link": "no",
+    "License": "Apache License 2.0",
+    "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "Id": "1043",
+    "Type": "Text",
+    "Dependency Name": "Autolink Java",
+    "Developer Name": "Robin Stocker",
+    "Github Link": "https://github.com/robinst/autolink-java",
+    "Full Name": "robinst/autolink-java",
+    "YouTube Link": "no",
+    "License": "MIT license",
+    "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+  },
+  {
+    "Id": "3010",
+    "Type": "Widget",
+    "Dependency Name": "Smooth Progress Bar",
+    "Developer Name": "Antoine Merle",
+    "Github Link": "https://github.com/castorflex/SmoothProgressBar",
+    "Full Name": "castorflex/SmoothProgressBar",
+    "YouTube Link": "no",
+    "License": "Apache License 2.0",
+    "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "Id": "3011",
+    "Type": "Widget",
+    "Dependency Name": "Belvedere",
+    "Developer Name": "Zendesk",
+    "Github Link": "https://github.com/zendesk/belvedere",
+    "Full Name": "zendesk/belvedere",
+    "YouTube Link": "no",
+    "License": "Apache License 2.0",
+    "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "id": "9097",
+    "type": "Others",
+    "dependency_name": "Okio",
+    "developer_name": "Square",
+    "github_link": "https://github.com/square/okio",
+    "full_name": "square/okio",
+    "youtube_link": "no",
+    "license": "Apache License 2.0",
+    "license_link": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "id": "9098",
+    "type": "Others",
+    "dependency_name": "Auto Parcel",
+    "developer_name": "Francesco Sardo",
+    "github_link": "https://github.com/frankiesardo/auto-parcel",
+    "full_name": "frankiesardo/auto-parcel",
+    "youtube_link": "no",
+    "license": "EPL-1.0 license",
+    "license_link": "https://github.com/frankiesardo/auto-parcel/blob/master/LICENSE.md"
+  },
+  {
+    "id": "9099",
+    "type": "Others",
+    "dependency_name": "PDFium",
+    "developer_name": "PDFium",
+    "github_link": "https://github.com/PDFium/PDFium",
+    "full_name": "PDFium/PDFium",
+    "youtube_link": "no",
+    "license": "BSD-3-Clause license",
+    "license_link": "https://github.com/PDFium/PDFium/blob/master/LICENSE"
   }
 ]
