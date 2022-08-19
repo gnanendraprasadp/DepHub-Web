@@ -2,7 +2,7 @@
   "files": {
     "main.js": "/static/js/main.1ccb6d07.js",
     "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
+    "index.html": "/app.html",
     "main.1ccb6d07.js.map": "/static/js/main.1ccb6d07.js.map"
   },
   "entrypoints": [
